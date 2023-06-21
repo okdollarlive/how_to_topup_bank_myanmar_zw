@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 
-body {font:1em 'Zawgyi-One', Arial, Helvetica, sans-serif; margin:0; padding:0 !important;}
+body {font:1em 'zawgyione', Arial, Helvetica, sans-serif; margin:0; padding:0 !important;}
 html {font-smoothing: antialiased; -webkit-font-smoothing: antialiased; -moz-font-smoothing:antialiased;}
 .clear {content:"."; display:block; clear:both;} 
 a{-webkit-transition:all .3s ease; -moz-transition:all .3s ease; -o-transition:all .3s ease; transition:all .3s ease; text-decoration:none; outline:none; color:#444444}
